@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Aladin-Ykb10/Hokega_new.git/static/css/main.b4c2e6f7.css",
+    "main.js": "/Aladin-Ykb10/Hokega_new.git/static/js/main.33cf77f6.js",
+    "static/js/787.a65d9c97.chunk.js": "/Aladin-Ykb10/Hokega_new.git/static/js/787.a65d9c97.chunk.js",
+    "static/media/logo.png": "/Aladin-Ykb10/Hokega_new.git/static/media/logo.60cbb9256b31b949a9c1.png",
+    "index.html": "/Aladin-Ykb10/Hokega_new.git/index.html",
+    "main.b4c2e6f7.css.map": "/Aladin-Ykb10/Hokega_new.git/static/css/main.b4c2e6f7.css.map",
+    "main.33cf77f6.js.map": "/Aladin-Ykb10/Hokega_new.git/static/js/main.33cf77f6.js.map",
+    "787.a65d9c97.chunk.js.map": "/Aladin-Ykb10/Hokega_new.git/static/js/787.a65d9c97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c2e6f7.css",
+    "static/js/main.33cf77f6.js"
+  ]
+}
